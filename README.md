@@ -15,7 +15,6 @@ This Power BI dashboard provides insights into **traffic accidents**, including 
 
 ## 📷 Dashboard Preview  
 ![Traffic Accidents Analysis](![Traffic Accidents Analysis](https://github.com/user-attachments/assets/43bb079a-b344-46de-a34b-a66aec7b9da8)
-)
 
 ## 📂 Dataset  
 The dataset used in this dashboard includes information on:  
