@@ -14,7 +14,7 @@ This Power BI dashboard provides insights into **traffic accidents**, including 
 - **Traffic Condition Filter** – Allows users to filter data by **high, medium, or low** traffic conditions.  
 
 ## 📷 Dashboard Preview  
-![Traffic Accidents Analysis](![Traffic Accidents Analysis](https://github.com/user-attachments/assets/43bb079a-b344-46de-a34b-a66aec7b9da8)
+![Traffic Accidents Analysis](https://github.com/user-attachments/assets/43bb079a-b344-46de-a34b-a66aec7b9da8)
 
 ## 📂 Dataset  
 The dataset used in this dashboard includes information on:  
